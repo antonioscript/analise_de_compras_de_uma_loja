@@ -1,2 +1,2 @@
-# data_analysis_project_bermuda_store
- Project that seeks to analyze the data provided by a company that sells shorts in different stores
+# Análise de Compras de uma Loja de Bermudas
+Esse projeto visa anaçizar os dados de uma loja que vende bermudaas, para saber qual o melhor produto para investir
